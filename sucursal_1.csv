@@ -1,0 +1,501 @@
+ID_venta,Sucursal,Fecha,ID_producto,Nombre_producto,Categoría_producto,Precio_unitario,Cantidad_vendida,Monto_total,ID_empleado,Nombre_empleado,Evaluación_atención,Descuento,Ubicación_cliente,Ciudad,Método_pago,Hora_venta
+V1000,Sucursal 1,2023-03-01,3,Auriculares Bluetooth,Ropa,80.0,1,400.0,E3,Pedro Gomez,2,10,Zona 1,Loja,Tarjeta de credito,Noche
+V1001,Sucursal 1,2023-01-29,8,Tablet,Electronica,40.0,7,280.0,E5,Jose Lopez,5,5,Zona 2,Guayaquil,Tarjeta de credito,Mañana
+V1002,Sucursal 1,2023-02-16,6,Auriculares Bluetooth,Accesorios,80.0,1,480.0,E4,Lucia Martinez,1,5,Zona 3,Ambato,Efectivo,Tarde
+V1003,Sucursal 1,2023-03-10,10,Auriculares Bluetooth,Ropa,80.0,7,800.0,E5,Lucia Martinez,5,20,Zona 3,Guayaquil,PayPal,Tarde
+V1004,Sucursal 1,2023-03-13,7,Reloj,Ropa,120.0,9,320.0,E2,Jose Lopez,2,0,Zona 1,Ambato,PayPal,Mañana
+V1005,Sucursal 1,2023-01-24,8,Reloj,Calzado,40.0,6,480.0,E3,Jose Lopez,3,5,Zona 3,Guayaquil,Tarjeta de debito,Noche
+V1006,Sucursal 1,2023-01-25,3,Cargador inalambrico,Accesorios,30.0,2,480.0,E3,Pedro Gomez,4,10,Zona 1,Guayaquil,Efectivo,Noche
+V1007,Sucursal 1,2023-01-15,8,Cargador inalambrico,Electronica,500.0,8,150.0,E3,Jose Lopez,5,20,Zona 3,Loja,PayPal,Mañana
+V1008,Sucursal 1,2023-02-22,9,Auriculares Bluetooth,Electronica,80.0,5,420.0,E2,Pedro Gomez,4,5,Zona 1,Guayaquil,Tarjeta de debito,Mañana
+V1009,Sucursal 1,2023-03-03,5,Tablet,Calzado,25.0,6,120.0,E2,Lucia Martinez,5,0,Zona 2,Ambato,PayPal,Mañana
+V1010,Sucursal 1,2023-03-08,2,Reloj,Ropa,30.0,7,1500.0,E4,Ana Garcia,4,0,Zona 3,Cuenca,Tarjeta de debito,Noche
+V1011,Sucursal 1,2023-03-07,4,Pantalones,Calzado,60.0,9,240.0,E5,Lucia Martinez,5,15,Zona 1,Cuenca,PayPal,Tarde
+V1012,Sucursal 1,2023-03-19,3,Pantalones,Ropa,250.0,2,250.0,E1,Jose Lopez,2,0,Zona 2,Guayaquil,Efectivo,Noche
+V1013,Sucursal 1,2023-03-23,5,Chaqueta de cuero,Ropa,300.0,9,120.0,E1,Carlos Perez,1,10,Zona 2,Quito,Tarjeta de credito,Noche
+V1014,Sucursal 1,2023-03-15,10,Smartphone,Electronica,40.0,8,360.0,E3,Lucia Martinez,3,20,Zona 1,Quito,Tarjeta de credito,Mañana
+V1015,Sucursal 1,2023-02-19,7,Chaqueta de cuero,Ropa,150.0,6,2100.0,E2,Jose Lopez,5,0,Zona 3,Cuenca,Efectivo,Tarde
+V1016,Sucursal 1,2023-01-03,7,Chaqueta de cuero,Electronica,30.0,5,750.0,E2,Pedro Gomez,3,5,Zona 1,Ambato,Tarjeta de debito,Mañana
+V1017,Sucursal 1,2023-02-24,8,Cargador inalambrico,Electronica,40.0,10,240.0,E2,Carlos Perez,3,5,Zona 1,Cuenca,Tarjeta de debito,Mañana
+V1018,Sucursal 1,2023-01-04,1,Cargador inalambrico,Accesorios,80.0,1,250.0,E2,Carlos Perez,1,20,Zona 2,Ambato,Transferencia,Tarde
+V1019,Sucursal 1,2023-02-14,2,Camiseta,Ropa,25.0,8,60.0,E1,Ana Garcia,3,15,Zona 1,Ambato,Efectivo,Noche
+V1020,Sucursal 1,2023-03-01,3,Tablet,Ropa,30.0,3,150.0,E1,Ana Garcia,2,0,Zona 2,Guayaquil,Tarjeta de debito,Tarde
+V1021,Sucursal 1,2023-02-06,9,Reloj,Electronica,30.0,1,480.0,E2,Lucia Martinez,5,5,Zona 1,Cuenca,Tarjeta de credito,Tarde
+V1022,Sucursal 1,2023-02-28,2,Pantalones,Accesorios,300.0,2,250.0,E2,Carlos Perez,1,10,Zona 3,Quito,Transferencia,Mañana
+V1023,Sucursal 1,2023-02-21,6,Pantalones,Electronica,80.0,7,300.0,E1,Lucia Martinez,3,5,Zona 1,Ambato,Tarjeta de debito,Mañana
+V1024,Sucursal 1,2023-01-19,3,Bicicleta,Electronica,500.0,3,240.0,E2,Lucia Martinez,1,0,Zona 1,Ambato,PayPal,Mañana
+V1025,Sucursal 1,2023-02-01,3,Zapatos deportivos,Electronica,25.0,7,50.0,E2,Carlos Perez,5,15,Zona 1,Guayaquil,Tarjeta de credito,Mañana
+V1026,Sucursal 1,2023-03-04,6,Smartphone,Electronica,80.0,3,600.0,E4,Ana Garcia,1,15,Zona 2,Guayaquil,Tarjeta de credito,Mañana
+V1027,Sucursal 1,2023-02-21,2,Reloj,Electronica,500.0,7,1500.0,E4,Lucia Martinez,1,0,Zona 2,Cuenca,Tarjeta de debito,Mañana
+V1028,Sucursal 1,2023-01-18,2,Bicicleta,Ropa,30.0,1,320.0,E3,Ana Garcia,5,20,Zona 3,Ambato,Tarjeta de debito,Tarde
+V1029,Sucursal 1,2023-03-30,9,Reloj,Calzado,40.0,5,3500.0,E4,Jose Lopez,5,0,Zona 1,Ambato,PayPal,Noche
+V1030,Sucursal 1,2023-02-28,9,Chaqueta de cuero,Electronica,250.0,7,180.0,E5,Ana Garcia,4,20,Zona 1,Guayaquil,Efectivo,Tarde
+V1031,Sucursal 1,2023-01-22,7,Zapatos deportivos,Accesorios,25.0,6,1500.0,E3,Ana Garcia,4,20,Zona 2,Quito,Transferencia,Tarde
+V1032,Sucursal 1,2023-03-03,10,Zapatos deportivos,Electronica,80.0,4,250.0,E4,Lucia Martinez,4,5,Zona 1,Ambato,Tarjeta de credito,Tarde
+V1033,Sucursal 1,2023-01-26,10,Zapatos deportivos,Accesorios,30.0,3,360.0,E1,Pedro Gomez,5,15,Zona 1,Cuenca,Transferencia,Noche
+V1034,Sucursal 1,2023-01-04,10,Smartphone,Electronica,40.0,5,560.0,E1,Ana Garcia,5,20,Zona 3,Ambato,Transferencia,Tarde
+V1035,Sucursal 1,2023-03-07,5,Tablet,Electronica,60.0,3,1500.0,E4,Pedro Gomez,5,5,Zona 3,Quito,Tarjeta de debito,Tarde
+V1036,Sucursal 1,2023-01-02,1,Smartphone,Electronica,25.0,1,4000.0,E5,Ana Garcia,5,10,Zona 1,Guayaquil,PayPal,Noche
+V1037,Sucursal 1,2023-03-13,1,Cargador inalambrico,Accesorios,300.0,5,100.0,E3,Jose Lopez,5,15,Zona 1,Ambato,Tarjeta de credito,Noche
+V1038,Sucursal 1,2023-03-13,4,Bicicleta,Accesorios,150.0,5,200.0,E2,Ana Garcia,3,20,Zona 1,Guayaquil,PayPal,Noche
+V1039,Sucursal 1,2023-02-20,8,Camiseta,Ropa,25.0,7,1200.0,E2,Carlos Perez,3,15,Zona 3,Loja,Efectivo,Mañana
+V1040,Sucursal 1,2023-02-18,1,Cargador inalambrico,Electronica,120.0,2,1200.0,E1,Carlos Perez,1,20,Zona 3,Ambato,PayPal,Tarde
+V1041,Sucursal 1,2023-03-06,8,Pantalones,Electronica,250.0,3,320.0,E3,Carlos Perez,5,0,Zona 3,Loja,Tarjeta de credito,Noche
+V1042,Sucursal 1,2023-02-08,3,Reloj,Ropa,25.0,1,1750.0,E4,Ana Garcia,5,10,Zona 2,Ambato,Tarjeta de credito,Mañana
+V1043,Sucursal 1,2023-03-19,9,Cargador inalambrico,Accesorios,300.0,3,2500.0,E2,Pedro Gomez,1,10,Zona 3,Cuenca,Efectivo,Mañana
+V1044,Sucursal 1,2023-01-12,4,Auriculares Bluetooth,Electronica,300.0,2,50.0,E1,Jose Lopez,4,20,Zona 2,Quito,Transferencia,Mañana
+V1045,Sucursal 1,2023-01-09,7,Chaqueta de cuero,Ropa,250.0,5,180.0,E5,Carlos Perez,1,10,Zona 2,Guayaquil,Tarjeta de debito,Mañana
+V1046,Sucursal 1,2023-02-11,4,Pantalones,Ropa,40.0,6,320.0,E4,Carlos Perez,5,20,Zona 3,Guayaquil,Tarjeta de debito,Tarde
+V1047,Sucursal 1,2023-02-19,2,Bicicleta,Accesorios,40.0,8,1000.0,E4,Pedro Gomez,4,0,Zona 3,Ambato,Tarjeta de debito,Tarde
+V1048,Sucursal 1,2023-03-14,7,Chaqueta de cuero,Ropa,25.0,7,320.0,E1,Ana Garcia,2,0,Zona 3,Ambato,Tarjeta de debito,Mañana
+V1049,Sucursal 1,2023-01-27,6,Tablet,Electronica,250.0,2,225.0,E4,Lucia Martinez,5,15,Zona 2,Cuenca,Efectivo,Tarde
+V1050,Sucursal 1,2023-03-25,1,Cargador inalambrico,Electronica,150.0,5,400.0,E5,Jose Lopez,3,5,Zona 1,Quito,Tarjeta de debito,Tarde
+V1051,Sucursal 1,2023-03-12,5,Smartphone,Electronica,500.0,6,240.0,E4,Pedro Gomez,5,0,Zona 2,Quito,Efectivo,Noche
+V1052,Sucursal 1,2023-03-19,7,Zapatos deportivos,Accesorios,30.0,10,3000.0,E2,Lucia Martinez,4,15,Zona 3,Quito,PayPal,Mañana
+V1053,Sucursal 1,2023-01-28,5,Zapatos deportivos,Electronica,60.0,9,1080.0,E5,Lucia Martinez,1,15,Zona 2,Guayaquil,PayPal,Mañana
+V1054,Sucursal 1,2023-03-14,9,Cargador inalambrico,Ropa,80.0,5,240.0,E4,Jose Lopez,1,20,Zona 3,Ambato,PayPal,Mañana
+V1055,Sucursal 1,2023-03-29,3,Bicicleta,Accesorios,120.0,10,90.0,E4,Carlos Perez,5,10,Zona 3,Loja,Tarjeta de debito,Mañana
+V1056,Sucursal 1,2023-01-30,3,Reloj,Electronica,25.0,7,100.0,E3,Pedro Gomez,4,15,Zona 3,Ambato,Tarjeta de debito,Tarde
+V1057,Sucursal 1,2023-01-13,8,Camiseta,Ropa,40.0,5,2000.0,E1,Ana Garcia,2,15,Zona 2,Guayaquil,Efectivo,Tarde
+V1058,Sucursal 1,2023-03-07,10,Reloj,Electronica,30.0,3,300.0,E5,Lucia Martinez,4,20,Zona 1,Loja,Tarjeta de debito,Mañana
+V1059,Sucursal 1,2023-03-17,5,Zapatos deportivos,Ropa,80.0,7,2000.0,E4,Pedro Gomez,3,15,Zona 3,Ambato,Efectivo,Tarde
+V1060,Sucursal 1,2023-02-09,2,Bicicleta,Ropa,250.0,6,270.0,E4,Jose Lopez,1,20,Zona 1,Loja,Transferencia,Tarde
+V1061,Sucursal 1,2023-02-05,1,Smartphone,Calzado,500.0,2,480.0,E5,Jose Lopez,5,10,Zona 3,Cuenca,Tarjeta de credito,Mañana
+V1062,Sucursal 1,2023-02-26,9,Camiseta,Electronica,60.0,8,2700.0,E2,Lucia Martinez,5,20,Zona 2,Loja,PayPal,Tarde
+V1063,Sucursal 1,2023-01-29,3,Zapatos deportivos,Electronica,30.0,3,720.0,E5,Jose Lopez,3,0,Zona 1,Cuenca,Transferencia,Noche
+V1064,Sucursal 1,2023-01-08,1,Tablet,Accesorios,250.0,6,360.0,E5,Jose Lopez,3,5,Zona 2,Loja,Tarjeta de credito,Mañana
+V1065,Sucursal 1,2023-02-07,1,Cargador inalambrico,Electronica,40.0,8,4500.0,E5,Lucia Martinez,1,20,Zona 2,Cuenca,Tarjeta de debito,Noche
+V1066,Sucursal 1,2023-03-18,4,Bicicleta,Accesorios,40.0,3,900.0,E4,Jose Lopez,5,20,Zona 3,Ambato,Transferencia,Mañana
+V1067,Sucursal 1,2023-03-04,9,Pantalones,Ropa,40.0,1,160.0,E1,Ana Garcia,3,0,Zona 3,Loja,Tarjeta de credito,Mañana
+V1068,Sucursal 1,2023-03-25,7,Pantalones,Electronica,250.0,2,60.0,E1,Ana Garcia,4,20,Zona 3,Loja,PayPal,Noche
+V1069,Sucursal 1,2023-02-15,8,Smartphone,Electronica,300.0,2,1500.0,E4,Lucia Martinez,4,20,Zona 1,Cuenca,Tarjeta de debito,Mañana
+V1070,Sucursal 1,2023-01-21,7,Bicicleta,Electronica,25.0,9,540.0,E4,Pedro Gomez,2,10,Zona 2,Loja,Tarjeta de credito,Tarde
+V1071,Sucursal 1,2023-01-11,6,Bicicleta,Calzado,60.0,10,1500.0,E1,Ana Garcia,2,5,Zona 2,Cuenca,Tarjeta de debito,Noche
+V1072,Sucursal 1,2023-02-15,5,Chaqueta de cuero,Electronica,500.0,9,2700.0,E3,Carlos Perez,3,0,Zona 1,Loja,Efectivo,Mañana
+V1073,Sucursal 1,2023-01-21,5,Cargador inalambrico,Ropa,300.0,5,240.0,E3,Ana Garcia,2,10,Zona 1,Loja,Transferencia,Noche
+V1074,Sucursal 1,2023-03-02,1,Bicicleta,Ropa,120.0,5,270.0,E2,Carlos Perez,3,20,Zona 3,Guayaquil,Transferencia,Mañana
+V1075,Sucursal 1,2023-02-23,6,Auriculares Bluetooth,Ropa,25.0,10,160.0,E2,Ana Garcia,3,20,Zona 3,Quito,Efectivo,Noche
+V1076,Sucursal 1,2023-01-03,5,Bicicleta,Electronica,150.0,5,80.0,E2,Pedro Gomez,3,0,Zona 3,Loja,PayPal,Tarde
+V1077,Sucursal 1,2023-02-09,4,Auriculares Bluetooth,Electronica,300.0,9,50.0,E3,Ana Garcia,4,15,Zona 2,Guayaquil,PayPal,Tarde
+V1078,Sucursal 1,2023-03-03,1,Tablet,Accesorios,80.0,4,750.0,E4,Carlos Perez,2,15,Zona 1,Cuenca,Tarjeta de debito,Tarde
+V1079,Sucursal 1,2023-02-18,5,Bicicleta,Ropa,60.0,7,1000.0,E2,Lucia Martinez,2,5,Zona 1,Guayaquil,Tarjeta de credito,Mañana
+V1080,Sucursal 1,2023-03-31,1,Smartphone,Calzado,300.0,7,60.0,E3,Carlos Perez,4,15,Zona 3,Ambato,Transferencia,Noche
+V1081,Sucursal 1,2023-01-19,2,Chaqueta de cuero,Electronica,250.0,3,750.0,E1,Ana Garcia,4,0,Zona 2,Cuenca,Tarjeta de debito,Noche
+V1082,Sucursal 1,2023-03-25,3,Smartphone,Accesorios,25.0,6,480.0,E3,Pedro Gomez,2,15,Zona 2,Cuenca,Tarjeta de debito,Tarde
+V1083,Sucursal 1,2023-03-15,7,Camiseta,Ropa,40.0,6,1200.0,E1,Carlos Perez,1,0,Zona 1,Loja,Tarjeta de credito,Noche
+V1084,Sucursal 1,2023-01-09,9,Auriculares Bluetooth,Ropa,60.0,4,480.0,E4,Carlos Perez,3,10,Zona 3,Quito,PayPal,Mañana
+V1085,Sucursal 1,2023-03-09,9,Pantalones,Calzado,60.0,10,400.0,E5,Carlos Perez,2,10,Zona 1,Quito,Transferencia,Tarde
+V1086,Sucursal 1,2023-02-22,10,Zapatos deportivos,Electronica,30.0,4,900.0,E3,Ana Garcia,5,20,Zona 2,Ambato,PayPal,Mañana
+V1087,Sucursal 1,2023-01-28,2,Bicicleta,Ropa,300.0,2,160.0,E1,Ana Garcia,4,0,Zona 3,Loja,Transferencia,Noche
+V1088,Sucursal 1,2023-02-17,5,Pantalones,Electronica,40.0,7,280.0,E4,Lucia Martinez,1,5,Zona 2,Quito,Efectivo,Tarde
+V1089,Sucursal 1,2023-01-06,4,Cargador inalambrico,Calzado,30.0,1,30.0,E4,Carlos Perez,1,0,Zona 1,Loja,Efectivo,Mañana
+V1090,Sucursal 1,2023-01-22,1,Reloj,Electronica,80.0,1,60.0,E2,Jose Lopez,3,15,Zona 3,Quito,Efectivo,Tarde
+V1091,Sucursal 1,2023-01-30,4,Reloj,Electronica,25.0,4,480.0,E3,Carlos Perez,1,20,Zona 1,Guayaquil,Transferencia,Mañana
+V1092,Sucursal 1,2023-01-24,7,Bicicleta,Ropa,500.0,5,600.0,E2,Carlos Perez,3,15,Zona 3,Cuenca,Tarjeta de debito,Mañana
+V1093,Sucursal 1,2023-02-07,2,Bicicleta,Electronica,120.0,1,2500.0,E4,Carlos Perez,2,0,Zona 1,Loja,Transferencia,Noche
+V1094,Sucursal 1,2023-01-02,3,Cargador inalambrico,Electronica,30.0,4,225.0,E4,Ana Garcia,3,20,Zona 3,Loja,Tarjeta de debito,Tarde
+V1095,Sucursal 1,2023-01-14,8,Smartphone,Accesorios,60.0,7,25.0,E2,Jose Lopez,2,10,Zona 2,Cuenca,Efectivo,Tarde
+V1096,Sucursal 1,2023-03-10,10,Chaqueta de cuero,Electronica,120.0,2,300.0,E5,Carlos Perez,2,5,Zona 1,Cuenca,Tarjeta de credito,Noche
+V1097,Sucursal 1,2023-03-23,1,Tablet,Electronica,300.0,6,1500.0,E2,Jose Lopez,2,5,Zona 2,Guayaquil,Transferencia,Mañana
+V1098,Sucursal 1,2023-03-11,5,Chaqueta de cuero,Electronica,80.0,10,600.0,E2,Pedro Gomez,4,20,Zona 3,Cuenca,Transferencia,Noche
+V1099,Sucursal 1,2023-02-18,5,Reloj,Ropa,300.0,3,450.0,E3,Jose Lopez,3,5,Zona 2,Loja,Transferencia,Tarde
+V1100,Sucursal 1,2023-02-04,8,Bicicleta,Accesorios,300.0,7,4500.0,E3,Pedro Gomez,2,15,Zona 2,Loja,Transferencia,Noche
+V1101,Sucursal 1,2023-03-21,2,Pantalones,Accesorios,30.0,5,4500.0,E2,Lucia Martinez,3,15,Zona 1,Cuenca,Tarjeta de credito,Mañana
+V1102,Sucursal 1,2023-03-04,4,Zapatos deportivos,Ropa,250.0,9,120.0,E5,Lucia Martinez,1,15,Zona 3,Ambato,Transferencia,Noche
+V1103,Sucursal 1,2023-01-05,8,Auriculares Bluetooth,Calzado,300.0,5,150.0,E1,Jose Lopez,4,20,Zona 3,Ambato,Transferencia,Tarde
+V1104,Sucursal 1,2023-01-01,9,Cargador inalambrico,Accesorios,60.0,9,30.0,E5,Carlos Perez,5,10,Zona 3,Quito,PayPal,Noche
+V1105,Sucursal 1,2023-02-23,6,Zapatos deportivos,Calzado,150.0,7,480.0,E5,Ana Garcia,1,0,Zona 3,Cuenca,Tarjeta de credito,Noche
+V1106,Sucursal 1,2023-03-16,7,Zapatos deportivos,Ropa,150.0,3,2000.0,E3,Carlos Perez,3,0,Zona 2,Ambato,Transferencia,Tarde
+V1107,Sucursal 1,2023-03-12,7,Cargador inalambrico,Accesorios,250.0,8,150.0,E4,Ana Garcia,2,10,Zona 3,Ambato,Transferencia,Mañana
+V1108,Sucursal 1,2023-03-06,3,Reloj,Calzado,,7,,E3,Pedro Gomez,3,0,Zona 3,Guayaquil,Tarjeta de debito,Mañana
+V1109,Sucursal 1,2023-03-08,4,Smartphone,Ropa,80.0,7,3500.0,E4,Ana Garcia,3,5,Zona 2,Guayaquil,Tarjeta de debito,Tarde
+V1110,Sucursal 1,2023-01-02,1,Zapatos deportivos,Electronica,500.0,9,840.0,E2,Ana Garcia,2,5,Zona 3,Quito,Tarjeta de credito,Mañana
+V1111,Sucursal 1,2023-01-04,9,Camiseta,Accesorios,500.0,1,250.0,E1,Pedro Gomez,4,10,Zona 2,Cuenca,Efectivo,Noche
+V1112,Sucursal 1,2023-01-09,1,Camiseta,Electronica,80.0,10,360.0,E5,Jose Lopez,4,5,Zona 3,Cuenca,Tarjeta de credito,Mañana
+V1113,Sucursal 1,2023-01-27,9,Auriculares Bluetooth,Ropa,120.0,4,320.0,E5,Carlos Perez,4,5,Zona 2,Guayaquil,Transferencia,Tarde
+V1114,Sucursal 1,2023-02-05,2,Pantalones,Accesorios,300.0,3,600.0,E2,Lucia Martinez,3,5,Zona 2,Cuenca,Tarjeta de debito,Tarde
+V1115,Sucursal 1,2023-03-19,9,Tablet,Ropa,60.0,6,2000.0,E1,Lucia Martinez,4,5,Zona 2,Ambato,Tarjeta de credito,Tarde
+V1116,Sucursal 1,2023-03-12,6,Smartphone,Ropa,250.0,6,600.0,E3,Ana Garcia,5,0,Zona 1,Quito,Tarjeta de credito,Mañana
+V1117,Sucursal 1,2023-01-19,6,Tablet,Accesorios,250.0,10,2250.0,E5,Carlos Perez,3,5,Zona 3,Guayaquil,Transferencia,Noche
+V1118,Sucursal 1,2023-02-01,6,Zapatos deportivos,Electronica,500.0,1,80.0,E3,Jose Lopez,5,5,Zona 1,Ambato,Tarjeta de debito,Mañana
+V1119,Sucursal 1,2023-03-18,6,Tablet,Electronica,30.0,2,60.0,E2,Ana Garcia,3,20,Zona 2,Ambato,Transferencia,Noche
+V1120,Sucursal 1,2023-02-12,5,Tablet,Accesorios,40.0,5,450.0,E5,Carlos Perez,1,0,Zona 2,Quito,Tarjeta de credito,Mañana
+V1121,Sucursal 1,2023-03-22,5,Chaqueta de cuero,Electronica,300.0,3,1500.0,E2,Ana Garcia,3,10,Zona 1,Loja,Transferencia,Mañana
+V1122,Sucursal 1,2023-02-20,2,Reloj,Ropa,150.0,1,120.0,E5,Carlos Perez,3,5,Zona 2,Guayaquil,Efectivo,Tarde
+V1123,Sucursal 1,2023-01-13,7,Smartphone,Electronica,40.0,3,75.0,E2,Lucia Martinez,5,15,Zona 3,Ambato,Tarjeta de debito,Noche
+V1124,Sucursal 1,2023-02-24,7,Chaqueta de cuero,Electronica,40.0,2,120.0,E1,Pedro Gomez,4,10,Zona 1,Quito,Tarjeta de credito,Noche
+V1125,Sucursal 1,2023-01-24,4,Tablet,Electronica,30.0,6,600.0,E4,Pedro Gomez,4,5,Zona 3,Ambato,Transferencia,Noche
+V1126,Sucursal 1,2023-03-31,1,Bicicleta,Ropa,25.0,10,270.0,E1,Ana Garcia,4,5,Zona 3,Cuenca,Tarjeta de credito,Mañana
+V1127,Sucursal 1,2023-01-15,6,Pantalones,Ropa,80.0,5,720.0,E3,Lucia Martinez,4,15,Zona 2,Cuenca,Efectivo,Tarde
+V1128,Sucursal 1,2023-02-02,7,Cargador inalambrico,Electronica,40.0,5,225.0,E1,Ana Garcia,1,15,Zona 2,Loja,PayPal,Mañana
+V1129,Sucursal 1,2023-02-21,1,Pantalones,Electronica,25.0,1,1250.0,E4,Jose Lopez,2,10,Zona 2,Guayaquil,PayPal,Tarde
+V1130,Sucursal 1,2023-03-31,5,Chaqueta de cuero,Calzado,250.0,8,600.0,E5,Ana Garcia,5,15,Zona 2,Loja,Tarjeta de credito,Tarde
+V1131,Sucursal 1,2023-02-07,3,Zapatos deportivos,Electronica,25.0,5,240.0,E3,Ana Garcia,3,15,Zona 2,Cuenca,Tarjeta de credito,Noche
+V1132,Sucursal 1,2023-01-01,6,Camiseta,Ropa,40.0,6,1750.0,E1,Ana Garcia,1,5,Zona 2,Ambato,Transferencia,Tarde
+V1133,Sucursal 1,2023-01-16,2,Zapatos deportivos,Accesorios,300.0,3,160.0,E3,Carlos Perez,4,10,Zona 2,Ambato,Efectivo,Noche
+V1134,Sucursal 1,2023-01-27,2,Cargador inalambrico,Ropa,500.0,8,200.0,E4,Carlos Perez,3,0,Zona 1,Ambato,Tarjeta de credito,Tarde
+V1135,Sucursal 1,2023-01-05,10,Tablet,Calzado,40.0,5,500.0,E3,Lucia Martinez,4,5,Zona 3,Loja,Transferencia,Mañana
+V1136,Sucursal 1,2023-01-03,3,Bicicleta,Accesorios,300.0,5,180.0,E2,Lucia Martinez,3,10,Zona 3,Quito,Tarjeta de debito,Tarde
+V1137,Sucursal 1,2023-02-26,9,Pantalones,Electronica,300.0,2,300.0,E4,Pedro Gomez,5,5,Zona 3,Cuenca,PayPal,Mañana
+V1138,Sucursal 1,2023-02-14,6,Bicicleta,Accesorios,80.0,4,200.0,E3,Pedro Gomez,1,20,Zona 2,Ambato,Efectivo,Mañana
+V1139,Sucursal 1,2023-01-15,2,Auriculares Bluetooth,Accesorios,250.0,1,125.0,E2,Lucia Martinez,3,15,Zona 2,Cuenca,Tarjeta de credito,Mañana
+V1140,Sucursal 1,2023-02-13,9,Chaqueta de cuero,Accesorios,500.0,7,160.0,E3,Jose Lopez,2,10,Zona 1,Ambato,Tarjeta de credito,Mañana
+V1141,Sucursal 1,2023-02-20,1,Zapatos deportivos,Ropa,300.0,10,750.0,E1,Carlos Perez,1,10,Zona 2,Guayaquil,Tarjeta de debito,Tarde
+V1142,Sucursal 1,2023-02-18,5,Auriculares Bluetooth,Electronica,40.0,4,160.0,E3,Ana Garcia,5,15,Zona 3,Ambato,PayPal,Noche
+V1143,Sucursal 1,2023-01-25,9,Bicicleta,Ropa,30.0,1,1200.0,E4,Ana Garcia,3,20,Zona 1,Quito,Transferencia,Mañana
+V1144,Sucursal 1,2023-02-15,7,Auriculares Bluetooth,Electronica,80.0,1,1250.0,E5,Jose Lopez,4,10,Zona 3,Guayaquil,Transferencia,Tarde
+V1145,Sucursal 1,2023-03-01,9,Zapatos deportivos,Electronica,,2,,E5,Pedro Gomez,5,0,Zona 2,Guayaquil,Tarjeta de debito,Mañana
+V1146,Sucursal 1,2023-01-18,9,Camiseta,Ropa,30.0,2,160.0,E3,Pedro Gomez,3,10,Zona 1,Cuenca,Efectivo,Tarde
+V1147,Sucursal 1,2023-02-12,4,Cargador inalambrico,Electronica,60.0,3,360.0,E4,Pedro Gomez,3,0,Zona 1,Loja,Tarjeta de credito,Noche
+V1148,Sucursal 1,2023-03-02,3,Auriculares Bluetooth,Electronica,500.0,2,200.0,E1,Carlos Perez,4,5,Zona 2,Guayaquil,Efectivo,Noche
+V1149,Sucursal 1,2023-01-03,2,Auriculares Bluetooth,Calzado,120.0,1,320.0,E4,Ana Garcia,1,20,Zona 1,Cuenca,Efectivo,Tarde
+V1150,Sucursal 1,2023-02-07,5,Pantalones,Calzado,500.0,1,120.0,E3,Lucia Martinez,3,10,Zona 1,Cuenca,Tarjeta de credito,Noche
+V1151,Sucursal 1,2023-02-04,8,Auriculares Bluetooth,Calzado,30.0,3,1000.0,E4,Pedro Gomez,2,0,Zona 2,Loja,Efectivo,Noche
+V1152,Sucursal 1,2023-04-01,2,Smartphone,Calzado,60.0,4,1080.0,E2,Jose Lopez,2,5,Zona 1,Ambato,Transferencia,Mañana
+V1153,Sucursal 1,2023-03-22,2,Cargador inalambrico,Accesorios,250.0,7,160.0,E4,Lucia Martinez,1,10,Zona 1,Loja,Efectivo,Tarde
+V1154,Sucursal 1,2023-03-24,9,Camiseta,Accesorios,,5,,E3,Jose Lopez,1,20,Zona 2,Cuenca,Tarjeta de credito,Noche
+V1155,Sucursal 1,2023-02-01,2,Tablet,Accesorios,150.0,3,270.0,E4,Ana Garcia,2,20,Zona 3,Guayaquil,Tarjeta de debito,Tarde
+V1156,Sucursal 1,2023-01-09,7,Pantalones,Ropa,60.0,6,1500.0,E5,Lucia Martinez,5,0,Zona 2,Quito,Tarjeta de credito,Tarde
+V1157,Sucursal 1,2023-04-01,1,Tablet,Accesorios,30.0,8,90.0,E4,Pedro Gomez,2,0,Zona 1,Ambato,Efectivo,Mañana
+V1158,Sucursal 1,2023-03-25,10,Chaqueta de cuero,Electronica,500.0,3,600.0,E1,Ana Garcia,2,10,Zona 1,Cuenca,PayPal,Mañana
+V1159,Sucursal 1,2023-02-14,10,Pantalones,Calzado,80.0,7,2000.0,E5,Ana Garcia,4,5,Zona 1,Ambato,Efectivo,Mañana
+V1160,Sucursal 1,2023-03-12,9,Cargador inalambrico,Calzado,40.0,2,4500.0,E1,Lucia Martinez,5,15,Zona 2,Cuenca,Tarjeta de debito,Tarde
+V1161,Sucursal 1,2023-03-11,9,Auriculares Bluetooth,Electronica,25.0,3,240.0,E4,Ana Garcia,1,10,Zona 3,Cuenca,Tarjeta de debito,Mañana
+V1162,Sucursal 1,2023-01-28,10,Smartphone,Ropa,25.0,4,720.0,E2,Carlos Perez,3,20,Zona 3,Ambato,Tarjeta de credito,Mañana
+V1163,Sucursal 1,2023-02-04,3,Chaqueta de cuero,Calzado,250.0,1,400.0,E1,Pedro Gomez,1,10,Zona 1,Cuenca,PayPal,Tarde
+V1164,Sucursal 1,2023-03-27,5,Pantalones,Ropa,300.0,7,3500.0,E5,Jose Lopez,3,15,Zona 3,Guayaquil,PayPal,Tarde
+V1165,Sucursal 1,2023-01-06,1,Camiseta,Accesorios,300.0,6,480.0,E2,Ana Garcia,3,15,Zona 2,Ambato,PayPal,Mañana
+V1166,Sucursal 1,2023-03-25,5,Cargador inalambrico,Calzado,40.0,1,1500.0,E2,Ana Garcia,3,15,Zona 1,Cuenca,Transferencia,Tarde
+V1167,Sucursal 1,2023-02-22,8,Auriculares Bluetooth,Accesorios,25.0,10,1500.0,E5,Lucia Martinez,3,15,Zona 1,Guayaquil,Tarjeta de credito,Mañana
+V1168,Sucursal 1,2023-02-28,6,Reloj,Ropa,300.0,5,360.0,E4,Ana Garcia,3,15,Zona 3,Loja,Transferencia,Noche
+V1169,Sucursal 1,2023-01-14,2,Tablet,Ropa,60.0,2,3000.0,E4,Ana Garcia,3,0,Zona 2,Cuenca,Tarjeta de debito,Noche
+V1170,Sucursal 1,2023-02-03,4,Reloj,Ropa,60.0,4,240.0,E5,Jose Lopez,2,15,Zona 1,Quito,Tarjeta de credito,Mañana
+V1171,Sucursal 1,2023-01-20,7,Tablet,Ropa,250.0,1,120.0,E2,Pedro Gomez,4,15,Zona 3,Cuenca,Tarjeta de debito,Tarde
+V1172,Sucursal 1,2023-02-07,1,Tablet,Accesorios,60.0,5,2500.0,E4,Ana Garcia,4,15,Zona 1,Cuenca,PayPal,Mañana
+V1173,Sucursal 1,2023-01-24,4,Zapatos deportivos,Electronica,40.0,8,1350.0,E4,Ana Garcia,5,5,Zona 3,Guayaquil,Transferencia,Mañana
+V1174,Sucursal 1,2023-03-22,4,Pantalones,Accesorios,60.0,1,90.0,E4,Carlos Perez,2,15,Zona 3,Quito,Efectivo,Tarde
+V1175,Sucursal 1,2023-02-23,5,Smartphone,Accesorios,500.0,10,640.0,E2,Carlos Perez,4,15,Zona 2,Guayaquil,Transferencia,Mañana
+V1176,Sucursal 1,2023-02-07,9,Cargador inalambrico,Ropa,80.0,7,600.0,E2,Pedro Gomez,5,5,Zona 3,Ambato,PayPal,Tarde
+V1177,Sucursal 1,2023-02-06,6,Cargador inalambrico,Ropa,500.0,8,2000.0,E5,Ana Garcia,4,0,Zona 1,Quito,Transferencia,Tarde
+V1178,Sucursal 1,2023-02-10,2,Tablet,Electronica,60.0,4,80.0,E2,Jose Lopez,3,5,Zona 1,Guayaquil,Tarjeta de debito,Mañana
+V1179,Sucursal 1,2023-02-26,5,Cargador inalambrico,Ropa,150.0,5,250.0,E3,Pedro Gomez,4,20,Zona 2,Cuenca,PayPal,Tarde
+V1180,Sucursal 1,2023-03-16,6,Camiseta,Electronica,150.0,10,1080.0,E5,Lucia Martinez,5,0,Zona 1,Ambato,PayPal,Noche
+V1181,Sucursal 1,2023-02-24,1,Smartphone,Electronica,25.0,6,225.0,E3,Carlos Perez,3,20,Zona 1,Cuenca,Tarjeta de debito,Tarde
+V1182,Sucursal 1,2023-03-07,2,Chaqueta de cuero,Ropa,150.0,5,80.0,E3,Ana Garcia,5,0,Zona 1,Cuenca,Efectivo,Tarde
+V1183,Sucursal 1,2023-02-20,6,Zapatos deportivos,Electronica,150.0,3,120.0,E3,Lucia Martinez,3,0,Zona 2,Quito,PayPal,Noche
+V1184,Sucursal 1,2023-02-18,5,Chaqueta de cuero,Accesorios,120.0,7,2500.0,E5,Lucia Martinez,5,15,Zona 3,Ambato,PayPal,Tarde
+V1185,Sucursal 1,2023-03-26,10,Smartphone,Electronica,120.0,1,90.0,E4,Lucia Martinez,5,20,Zona 2,Ambato,Transferencia,Noche
+V1186,Sucursal 1,2023-02-11,9,Tablet,Accesorios,150.0,5,60.0,E5,Ana Garcia,2,0,Zona 2,Ambato,PayPal,Tarde
+V1187,Sucursal 1,2023-03-03,1,Cargador inalambrico,Calzado,120.0,2,240.0,E3,Jose Lopez,1,20,Zona 2,Guayaquil,Transferencia,Mañana
+V1188,Sucursal 1,2023-01-20,9,Auriculares Bluetooth,Ropa,40.0,8,4000.0,E4,Pedro Gomez,1,5,Zona 1,Quito,Transferencia,Tarde
+V1189,Sucursal 1,2023-01-28,8,Tablet,Calzado,40.0,5,150.0,E2,Pedro Gomez,1,20,Zona 3,Quito,PayPal,Mañana
+V1190,Sucursal 1,2023-02-21,10,Smartphone,Accesorios,500.0,9,120.0,E2,Carlos Perez,2,10,Zona 3,Guayaquil,PayPal,Mañana
+V1191,Sucursal 1,2023-01-31,4,Camiseta,Electronica,300.0,6,160.0,E3,Pedro Gomez,1,10,Zona 2,Cuenca,Transferencia,Mañana
+V1192,Sucursal 1,2023-03-01,8,Pantalones,Ropa,150.0,4,250.0,E3,Ana Garcia,5,15,Zona 2,Cuenca,Efectivo,Mañana
+V1193,Sucursal 1,2023-01-05,8,Smartphone,Calzado,30.0,5,540.0,E3,Pedro Gomez,3,0,Zona 2,Ambato,Efectivo,Noche
+V1194,Sucursal 1,2023-02-23,1,Chaqueta de cuero,Accesorios,300.0,3,720.0,E3,Pedro Gomez,4,10,Zona 3,Quito,Efectivo,Mañana
+V1195,Sucursal 1,2023-03-11,8,Bicicleta,Accesorios,25.0,6,90.0,E3,Jose Lopez,3,10,Zona 3,Guayaquil,Transferencia,Noche
+V1196,Sucursal 1,2023-03-04,9,Chaqueta de cuero,Ropa,30.0,2,2700.0,E4,Lucia Martinez,2,5,Zona 3,Cuenca,PayPal,Tarde
+V1197,Sucursal 1,2023-01-08,3,Tablet,Ropa,80.0,6,240.0,E1,Pedro Gomez,1,15,Zona 3,Guayaquil,Transferencia,Noche
+V1198,Sucursal 1,2023-01-08,9,Bicicleta,Accesorios,40.0,9,300.0,E3,Pedro Gomez,3,15,Zona 2,Guayaquil,Tarjeta de debito,Tarde
+V1199,Sucursal 1,2023-02-02,5,Reloj,Calzado,60.0,1,4000.0,E1,Lucia Martinez,1,15,Zona 3,Ambato,Tarjeta de debito,Mañana
+V1200,Sucursal 1,2023-01-16,2,Reloj,Ropa,40.0,1,4500.0,E3,Lucia Martinez,3,5,Zona 3,Guayaquil,Tarjeta de credito,Noche
+V1201,Sucursal 1,2023-03-24,6,Bicicleta,Calzado,300.0,4,720.0,E5,Ana Garcia,1,5,Zona 3,Quito,Transferencia,Tarde
+V1202,Sucursal 1,2023-02-04,3,Reloj,Electronica,80.0,5,450.0,E4,Ana Garcia,5,10,Zona 3,Cuenca,PayPal,Tarde
+V1203,Sucursal 1,2023-02-23,2,Smartphone,Electronica,250.0,8,360.0,E3,Carlos Perez,4,15,Zona 2,Quito,PayPal,Tarde
+V1204,Sucursal 1,2023-03-09,8,Reloj,Electronica,30.0,10,3500.0,E3,Ana Garcia,2,20,Zona 3,Guayaquil,Tarjeta de credito,Tarde
+V1205,Sucursal 1,2023-01-06,10,Cargador inalambrico,Electronica,150.0,9,1200.0,E2,Lucia Martinez,5,15,Zona 1,Quito,PayPal,Mañana
+V1206,Sucursal 1,2023-01-16,5,Cargador inalambrico,Electronica,80.0,10,240.0,E1,Ana Garcia,1,15,Zona 1,Loja,PayPal,Tarde
+V1207,Sucursal 1,2023-03-06,2,Reloj,Ropa,250.0,4,480.0,E2,Pedro Gomez,5,15,Zona 3,Guayaquil,Efectivo,Mañana
+V1208,Sucursal 1,2023-02-14,10,Zapatos deportivos,Calzado,500.0,2,2500.0,E4,Carlos Perez,1,15,Zona 1,Cuenca,Tarjeta de debito,Tarde
+V1209,Sucursal 1,2023-02-15,1,Zapatos deportivos,Electronica,30.0,8,360.0,E5,Lucia Martinez,5,15,Zona 3,Guayaquil,Tarjeta de credito,Noche
+V1210,Sucursal 1,2023-02-01,8,Auriculares Bluetooth,Ropa,250.0,9,2100.0,E4,Pedro Gomez,1,20,Zona 1,Guayaquil,Tarjeta de debito,Noche
+V1211,Sucursal 1,2023-03-20,8,Auriculares Bluetooth,Electronica,150.0,1,50.0,E4,Ana Garcia,5,0,Zona 2,Quito,Tarjeta de debito,Noche
+V1212,Sucursal 1,2023-02-03,1,Pantalones,Ropa,80.0,9,900.0,E5,Ana Garcia,3,20,Zona 2,Loja,Efectivo,Noche
+V1213,Sucursal 1,2023-02-22,4,Pantalones,Ropa,25.0,4,120.0,E4,Jose Lopez,4,0,Zona 2,Ambato,Transferencia,Mañana
+V1214,Sucursal 1,2023-02-04,8,Pantalones,Ropa,60.0,8,120.0,E4,Ana Garcia,1,15,Zona 1,Ambato,Transferencia,Mañana
+V1215,Sucursal 1,2023-01-23,5,Zapatos deportivos,Electronica,25.0,1,120.0,E2,Carlos Perez,5,15,Zona 3,Quito,Tarjeta de debito,Tarde
+V1216,Sucursal 1,2023-01-27,1,Bicicleta,Electronica,150.0,3,480.0,E3,Ana Garcia,3,5,Zona 2,Loja,PayPal,Noche
+V1217,Sucursal 1,2023-02-05,8,Cargador inalambrico,Ropa,25.0,10,160.0,E3,Ana Garcia,5,10,Zona 3,Guayaquil,Efectivo,Tarde
+V1218,Sucursal 1,2023-03-21,8,Zapatos deportivos,Electronica,250.0,6,4500.0,E5,Jose Lopez,3,5,Zona 1,Ambato,Tarjeta de debito,Tarde
+V1219,Sucursal 1,2023-02-22,2,Camiseta,Electronica,250.0,2,240.0,E1,Lucia Martinez,2,20,Zona 1,Ambato,Transferencia,Noche
+V1220,Sucursal 1,2023-02-03,2,Pantalones,Ropa,80.0,9,600.0,E2,Carlos Perez,5,10,Zona 3,Loja,PayPal,Tarde
+V1221,Sucursal 1,2023-01-30,4,Auriculares Bluetooth,Electronica,300.0,9,320.0,E1,Carlos Perez,4,5,Zona 1,Guayaquil,PayPal,Noche
+V1222,Sucursal 1,2023-03-24,10,Cargador inalambrico,Ropa,500.0,6,2500.0,E1,Carlos Perez,2,5,Zona 1,Ambato,Transferencia,Tarde
+V1223,Sucursal 1,2023-01-02,4,Chaqueta de cuero,Electronica,25.0,7,1800.0,E3,Ana Garcia,5,20,Zona 3,Loja,Efectivo,Mañana
+V1224,Sucursal 1,2023-02-01,2,Pantalones,Electronica,250.0,8,3000.0,E2,Lucia Martinez,3,0,Zona 2,Ambato,Tarjeta de debito,Tarde
+V1225,Sucursal 1,2023-03-06,1,Camiseta,Ropa,250.0,6,500.0,E4,Pedro Gomez,5,0,Zona 2,Ambato,Tarjeta de debito,Tarde
+V1226,Sucursal 1,2023-04-01,8,Chaqueta de cuero,Electronica,60.0,1,450.0,E2,Carlos Perez,3,15,Zona 1,Guayaquil,Tarjeta de debito,Tarde
+V1227,Sucursal 1,2023-03-23,4,Cargador inalambrico,Electronica,300.0,4,200.0,E2,Carlos Perez,1,5,Zona 1,Quito,Efectivo,Noche
+V1228,Sucursal 1,2023-03-23,9,Cargador inalambrico,Ropa,40.0,4,450.0,E4,Jose Lopez,5,10,Zona 1,Guayaquil,Transferencia,Tarde
+V1229,Sucursal 1,2023-02-24,9,Smartphone,Electronica,60.0,3,240.0,E1,Pedro Gomez,3,0,Zona 3,Cuenca,PayPal,Tarde
+V1230,Sucursal 1,2023-03-17,8,Chaqueta de cuero,Ropa,40.0,5,160.0,E2,Pedro Gomez,2,5,Zona 2,Guayaquil,Efectivo,Tarde
+V1231,Sucursal 1,2023-02-03,5,Bicicleta,Accesorios,150.0,7,960.0,E1,Carlos Perez,4,10,Zona 1,Guayaquil,Tarjeta de credito,Noche
+V1232,Sucursal 1,2023-02-26,6,Zapatos deportivos,Accesorios,25.0,3,1200.0,E5,Lucia Martinez,2,15,Zona 1,Guayaquil,Tarjeta de debito,Tarde
+V1233,Sucursal 1,2023-03-14,5,Tablet,Calzado,300.0,4,800.0,E2,Lucia Martinez,1,10,Zona 2,Loja,Transferencia,Noche
+V1234,Sucursal 1,2023-02-28,5,Auriculares Bluetooth,Electronica,80.0,2,240.0,E2,Lucia Martinez,5,20,Zona 2,Guayaquil,Transferencia,Tarde
+V1235,Sucursal 1,2023-01-08,7,Reloj,Ropa,25.0,6,1000.0,E3,Carlos Perez,4,0,Zona 3,Guayaquil,Tarjeta de credito,Noche
+V1236,Sucursal 1,2023-03-18,7,Chaqueta de cuero,Calzado,30.0,3,3000.0,E2,Pedro Gomez,5,10,Zona 2,Loja,PayPal,Tarde
+V1237,Sucursal 1,2023-01-06,5,Reloj,Electronica,300.0,8,80.0,E3,Lucia Martinez,5,10,Zona 1,Quito,Efectivo,Tarde
+V1238,Sucursal 1,2023-01-13,8,Tablet,Ropa,300.0,6,1250.0,E2,Carlos Perez,2,0,Zona 2,Loja,PayPal,Tarde
+V1239,Sucursal 1,2023-03-01,4,Auriculares Bluetooth,Electronica,30.0,8,150.0,E4,Lucia Martinez,1,10,Zona 1,Loja,Tarjeta de credito,Tarde
+V1240,Sucursal 1,2023-02-12,6,Smartphone,Electronica,250.0,9,200.0,E1,Carlos Perez,1,0,Zona 1,Loja,Tarjeta de debito,Mañana
+V1241,Sucursal 1,2023-03-01,5,Bicicleta,Electronica,120.0,1,2500.0,E2,Pedro Gomez,4,20,Zona 3,Ambato,Transferencia,Noche
+V1242,Sucursal 1,2023-01-14,7,Reloj,Ropa,250.0,2,240.0,E3,Lucia Martinez,1,0,Zona 2,Guayaquil,PayPal,Noche
+V1243,Sucursal 1,2023-02-25,2,Zapatos deportivos,Ropa,40.0,8,320.0,E4,Ana Garcia,5,20,Zona 3,Loja,Tarjeta de debito,Noche
+V1244,Sucursal 1,2023-03-25,1,Zapatos deportivos,Ropa,300.0,2,900.0,E4,Ana Garcia,1,0,Zona 1,Loja,Efectivo,Noche
+V1245,Sucursal 1,2023-02-27,9,Smartphone,Accesorios,30.0,4,25.0,E3,Lucia Martinez,2,20,Zona 1,Quito,Transferencia,Tarde
+V1246,Sucursal 1,2023-02-17,4,Zapatos deportivos,Electronica,300.0,4,720.0,E5,Jose Lopez,5,10,Zona 3,Quito,Transferencia,Noche
+V1247,Sucursal 1,2023-01-06,9,Reloj,Ropa,60.0,8,1500.0,E2,Carlos Perez,4,10,Zona 3,Ambato,Efectivo,Noche
+V1248,Sucursal 1,2023-02-24,7,Auriculares Bluetooth,Electronica,120.0,10,180.0,E3,Carlos Perez,1,20,Zona 2,Ambato,PayPal,Mañana
+V1249,Sucursal 1,2023-01-13,8,Smartphone,Ropa,30.0,9,400.0,E1,Pedro Gomez,4,0,Zona 2,Cuenca,Transferencia,Tarde
+V1250,Sucursal 1,2023-02-24,4,Camiseta,Ropa,500.0,4,600.0,E5,Lucia Martinez,4,10,Zona 1,Ambato,Tarjeta de debito,Mañana
+V1251,Sucursal 1,2023-03-26,10,Reloj,Electronica,80.0,8,225.0,E5,Carlos Perez,4,10,Zona 1,Quito,PayPal,Mañana
+V1252,Sucursal 1,2023-01-13,7,Pantalones,Ropa,30.0,9,120.0,E5,Ana Garcia,1,20,Zona 1,Quito,Efectivo,Noche
+V1253,Sucursal 1,2023-03-24,7,Reloj,Electronica,40.0,2,1750.0,E4,Carlos Perez,4,20,Zona 3,Cuenca,Efectivo,Tarde
+V1254,Sucursal 1,2023-02-18,9,Cargador inalambrico,Ropa,40.0,2,1500.0,E3,Lucia Martinez,1,0,Zona 1,Guayaquil,Tarjeta de credito,Mañana
+V1255,Sucursal 1,2023-03-21,7,Chaqueta de cuero,Ropa,60.0,3,1200.0,E4,Ana Garcia,5,0,Zona 2,Ambato,PayPal,Tarde
+V1256,Sucursal 1,2023-03-07,2,Smartphone,Electronica,120.0,1,200.0,E1,Lucia Martinez,3,20,Zona 1,Cuenca,PayPal,Noche
+V1257,Sucursal 1,2023-03-24,10,Auriculares Bluetooth,Ropa,500.0,8,560.0,E1,Ana Garcia,2,10,Zona 2,Ambato,Tarjeta de debito,Tarde
+V1258,Sucursal 1,2023-01-01,3,Bicicleta,Ropa,25.0,8,600.0,E5,Pedro Gomez,4,10,Zona 2,Ambato,Tarjeta de credito,Tarde
+V1259,Sucursal 1,2023-03-28,4,Chaqueta de cuero,Electronica,250.0,6,720.0,E3,Pedro Gomez,1,5,Zona 2,Ambato,PayPal,Noche
+V1260,Sucursal 1,2023-03-04,2,Auriculares Bluetooth,Calzado,250.0,1,30.0,E1,Jose Lopez,3,20,Zona 1,Quito,Tarjeta de debito,Mañana
+V1261,Sucursal 1,2023-01-13,10,Reloj,Electronica,150.0,5,4500.0,E1,Jose Lopez,5,0,Zona 2,Cuenca,PayPal,Noche
+V1262,Sucursal 1,2023-04-01,4,Camiseta,Electronica,120.0,5,150.0,E1,Jose Lopez,1,5,Zona 3,Loja,Tarjeta de debito,Tarde
+V1263,Sucursal 1,2023-01-07,5,Chaqueta de cuero,Accesorios,250.0,4,125.0,E1,Jose Lopez,4,20,Zona 2,Guayaquil,Tarjeta de credito,Tarde
+V1264,Sucursal 1,2023-02-18,5,Pantalones,Electronica,30.0,3,150.0,E4,Jose Lopez,2,10,Zona 2,Guayaquil,Efectivo,Mañana
+V1265,Sucursal 1,2023-03-12,9,Reloj,Calzado,25.0,10,240.0,E1,Lucia Martinez,2,5,Zona 2,Ambato,Tarjeta de credito,Tarde
+V1266,Sucursal 1,2023-02-05,3,Pantalones,Electronica,25.0,1,500.0,E3,Pedro Gomez,2,10,Zona 2,Cuenca,Efectivo,Mañana
+V1267,Sucursal 1,2023-01-22,4,Auriculares Bluetooth,Ropa,80.0,7,3000.0,E5,Ana Garcia,2,10,Zona 1,Guayaquil,Transferencia,Noche
+V1268,Sucursal 1,2023-02-07,6,Camiseta,Ropa,25.0,5,180.0,E2,Lucia Martinez,5,15,Zona 3,Cuenca,Efectivo,Mañana
+V1269,Sucursal 1,2023-01-20,10,Camiseta,Electronica,120.0,10,60.0,E4,Pedro Gomez,2,0,Zona 3,Cuenca,Tarjeta de debito,Mañana
+V1270,Sucursal 1,2023-03-12,8,Tablet,Electronica,40.0,8,480.0,E4,Carlos Perez,4,10,Zona 2,Loja,PayPal,Tarde
+V1271,Sucursal 1,2023-01-18,1,Reloj,Electronica,80.0,8,600.0,E3,Lucia Martinez,4,15,Zona 2,Cuenca,Tarjeta de credito,Mañana
+V1272,Sucursal 1,2023-02-18,3,Bicicleta,Accesorios,120.0,1,2000.0,E1,Lucia Martinez,5,15,Zona 3,Ambato,PayPal,Noche
+V1273,Sucursal 1,2023-02-07,2,Zapatos deportivos,Ropa,30.0,4,1050.0,E2,Ana Garcia,3,20,Zona 2,Ambato,Transferencia,Mañana
+V1274,Sucursal 1,2023-01-15,8,Smartphone,Accesorios,250.0,3,4000.0,E5,Pedro Gomez,1,20,Zona 2,Ambato,Transferencia,Mañana
+V1275,Sucursal 1,2023-02-15,7,Cargador inalambrico,Electronica,25.0,9,120.0,E5,Pedro Gomez,5,15,Zona 1,Quito,Efectivo,Mañana
+V1276,Sucursal 1,2023-03-31,10,Bicicleta,Accesorios,40.0,7,5000.0,E4,Lucia Martinez,1,15,Zona 2,Cuenca,Tarjeta de debito,Noche
+V1277,Sucursal 1,2023-01-13,10,Cargador inalambrico,Electronica,40.0,7,200.0,E4,Lucia Martinez,1,10,Zona 3,Cuenca,Tarjeta de debito,Noche
+V1278,Sucursal 1,2023-03-17,2,Pantalones,Electronica,300.0,6,200.0,E2,Pedro Gomez,4,5,Zona 1,Loja,Tarjeta de debito,Noche
+V1279,Sucursal 1,2023-01-16,1,Zapatos deportivos,Ropa,120.0,2,280.0,E5,Pedro Gomez,5,10,Zona 2,Guayaquil,Tarjeta de credito,Tarde
+V1280,Sucursal 1,2023-02-14,3,Bicicleta,Ropa,250.0,2,360.0,E2,Ana Garcia,4,0,Zona 2,Cuenca,Efectivo,Tarde
+V1281,Sucursal 1,2023-03-11,10,Chaqueta de cuero,Ropa,150.0,4,1200.0,E5,Ana Garcia,4,20,Zona 1,Loja,PayPal,Noche
+V1282,Sucursal 1,2023-02-17,2,Tablet,Calzado,,1,,E3,Lucia Martinez,3,15,Zona 1,Quito,Efectivo,Mañana
+V1283,Sucursal 1,2023-03-26,7,Pantalones,Electronica,25.0,4,600.0,E3,Lucia Martinez,2,0,Zona 3,Loja,Transferencia,Noche
+V1284,Sucursal 1,2023-02-21,7,Camiseta,Accesorios,80.0,8,200.0,E1,Pedro Gomez,5,5,Zona 1,Ambato,Tarjeta de credito,Tarde
+V1285,Sucursal 1,2023-03-26,9,Auriculares Bluetooth,Electronica,40.0,7,2500.0,E1,Jose Lopez,4,10,Zona 3,Guayaquil,PayPal,Mañana
+V1286,Sucursal 1,2023-03-14,5,Zapatos deportivos,Ropa,120.0,4,300.0,E2,Pedro Gomez,3,10,Zona 3,Loja,Efectivo,Mañana
+V1287,Sucursal 1,2023-01-21,7,Zapatos deportivos,Ropa,150.0,5,360.0,E5,Ana Garcia,5,20,Zona 2,Cuenca,Tarjeta de debito,Tarde
+V1288,Sucursal 1,2023-01-05,1,Camiseta,Ropa,120.0,1,100.0,E2,Lucia Martinez,3,10,Zona 1,Quito,Tarjeta de debito,Tarde
+V1289,Sucursal 1,2023-03-10,2,Tablet,Accesorios,80.0,4,1750.0,E5,Carlos Perez,3,5,Zona 1,Cuenca,Transferencia,Mañana
+V1290,Sucursal 1,2023-02-16,3,Smartphone,Accesorios,30.0,10,750.0,E1,Lucia Martinez,5,20,Zona 1,Ambato,Tarjeta de credito,Mañana
+V1291,Sucursal 1,2023-01-24,6,Camiseta,Electronica,250.0,4,420.0,E1,Lucia Martinez,1,15,Zona 1,Ambato,Tarjeta de credito,Tarde
+V1292,Sucursal 1,2023-02-02,5,Tablet,Accesorios,250.0,7,180.0,E5,Pedro Gomez,4,10,Zona 1,Guayaquil,Transferencia,Tarde
+V1293,Sucursal 1,2023-03-13,6,Zapatos deportivos,Electronica,150.0,9,1080.0,E3,Lucia Martinez,5,15,Zona 2,Ambato,Efectivo,Tarde
+V1294,Sucursal 1,2023-01-25,5,Camiseta,Calzado,300.0,10,2250.0,E1,Lucia Martinez,3,5,Zona 3,Cuenca,PayPal,Tarde
+V1295,Sucursal 1,2023-02-13,10,Tablet,Ropa,120.0,9,250.0,E3,Ana Garcia,1,5,Zona 1,Quito,Tarjeta de credito,Mañana
+V1296,Sucursal 1,2023-01-13,4,Camiseta,Electronica,250.0,5,320.0,E2,Ana Garcia,1,0,Zona 3,Cuenca,Transferencia,Tarde
+V1297,Sucursal 1,2023-03-26,7,Pantalones,Ropa,250.0,6,60.0,E3,Ana Garcia,4,10,Zona 1,Ambato,Tarjeta de credito,Mañana
+V1298,Sucursal 1,2023-03-26,6,Tablet,Accesorios,250.0,1,5000.0,E3,Pedro Gomez,5,5,Zona 1,Cuenca,Transferencia,Mañana
+V1299,Sucursal 1,2023-03-15,5,Tablet,Accesorios,300.0,9,160.0,E1,Ana Garcia,1,5,Zona 3,Ambato,Transferencia,Tarde
+V1300,Sucursal 1,2023-02-08,7,Camiseta,Accesorios,80.0,3,320.0,E1,Carlos Perez,2,10,Zona 2,Quito,PayPal,Tarde
+V1301,Sucursal 1,2023-01-29,7,Auriculares Bluetooth,Accesorios,500.0,1,960.0,E2,Carlos Perez,2,0,Zona 2,Guayaquil,Tarjeta de credito,Noche
+V1302,Sucursal 1,2023-02-10,5,Zapatos deportivos,Calzado,80.0,7,1200.0,E1,Pedro Gomez,2,15,Zona 1,Guayaquil,Tarjeta de debito,Tarde
+V1303,Sucursal 1,2023-02-25,9,Reloj,Ropa,60.0,7,480.0,E5,Ana Garcia,3,5,Zona 1,Loja,Tarjeta de debito,Mañana
+V1304,Sucursal 1,2023-03-02,6,Camiseta,Ropa,150.0,7,2500.0,E5,Ana Garcia,4,20,Zona 1,Loja,PayPal,Mañana
+V1305,Sucursal 1,2023-03-01,5,Camiseta,Calzado,25.0,6,960.0,E4,Ana Garcia,3,5,Zona 2,Loja,Efectivo,Mañana
+V1306,Sucursal 1,2023-03-26,2,Tablet,Calzado,120.0,4,640.0,E3,Pedro Gomez,2,10,Zona 1,Loja,Efectivo,Tarde
+V1307,Sucursal 1,2023-02-25,1,Reloj,Electronica,60.0,1,1500.0,E2,Lucia Martinez,1,10,Zona 3,Loja,Tarjeta de debito,Tarde
+V1308,Sucursal 1,2023-01-12,5,Cargador inalambrico,Accesorios,150.0,1,1750.0,E2,Carlos Perez,5,20,Zona 2,Cuenca,PayPal,Tarde
+V1309,Sucursal 1,2023-02-22,1,Chaqueta de cuero,Ropa,150.0,8,360.0,E4,Pedro Gomez,3,5,Zona 1,Ambato,Tarjeta de credito,Mañana
+V1310,Sucursal 1,2023-03-17,8,Bicicleta,Ropa,120.0,3,420.0,E3,Lucia Martinez,1,10,Zona 1,Loja,PayPal,Noche
+V1311,Sucursal 1,2023-01-24,5,Chaqueta de cuero,Ropa,500.0,2,160.0,E3,Ana Garcia,2,0,Zona 1,Quito,Transferencia,Noche
+V1312,Sucursal 1,2023-03-03,3,Bicicleta,Electronica,250.0,5,120.0,E5,Pedro Gomez,5,15,Zona 3,Ambato,Transferencia,Noche
+V1313,Sucursal 1,2023-01-26,10,Bicicleta,Electronica,25.0,2,25.0,E3,Ana Garcia,3,10,Zona 3,Ambato,PayPal,Noche
+V1314,Sucursal 1,2023-02-07,9,Chaqueta de cuero,Ropa,30.0,8,2000.0,E4,Lucia Martinez,4,15,Zona 3,Loja,Efectivo,Tarde
+V1315,Sucursal 1,2023-01-24,2,Tablet,Accesorios,250.0,10,270.0,E1,Pedro Gomez,2,0,Zona 1,Ambato,Efectivo,Tarde
+V1316,Sucursal 1,2023-01-16,7,Camiseta,Electronica,25.0,3,3000.0,E1,Jose Lopez,3,5,Zona 2,Quito,Tarjeta de credito,Noche
+V1317,Sucursal 1,2023-03-31,4,Tablet,Electronica,80.0,10,600.0,E3,Jose Lopez,3,10,Zona 3,Quito,Tarjeta de debito,Tarde
+V1318,Sucursal 1,2023-02-10,4,Zapatos deportivos,Accesorios,120.0,9,175.0,E4,Pedro Gomez,1,10,Zona 1,Ambato,Tarjeta de credito,Mañana
+V1319,Sucursal 1,2023-03-30,4,Auriculares Bluetooth,Accesorios,25.0,2,1500.0,E3,Pedro Gomez,5,20,Zona 3,Cuenca,Tarjeta de credito,Mañana
+V1320,Sucursal 1,2023-02-18,7,Smartphone,Ropa,150.0,2,250.0,E3,Pedro Gomez,2,20,Zona 1,Guayaquil,Tarjeta de credito,Noche
+V1321,Sucursal 1,2023-02-09,1,Reloj,Electronica,60.0,10,1500.0,E1,Lucia Martinez,2,10,Zona 1,Ambato,Efectivo,Noche
+V1322,Sucursal 1,2023-01-03,10,Reloj,Calzado,60.0,10,160.0,E2,Carlos Perez,3,15,Zona 2,Loja,Efectivo,Noche
+V1323,Sucursal 1,2023-02-15,9,Cargador inalambrico,Electronica,300.0,1,1800.0,E1,Lucia Martinez,3,10,Zona 1,Guayaquil,Tarjeta de debito,Mañana
+V1324,Sucursal 1,2023-01-20,1,Chaqueta de cuero,Ropa,60.0,2,2700.0,E2,Carlos Perez,1,5,Zona 1,Loja,Efectivo,Mañana
+V1325,Sucursal 1,2023-04-01,3,Tablet,Ropa,300.0,1,1500.0,E3,Jose Lopez,2,15,Zona 2,Cuenca,Efectivo,Noche
+V1326,Sucursal 1,2023-02-21,1,Tablet,Electronica,80.0,4,240.0,E3,Pedro Gomez,2,20,Zona 3,Guayaquil,Tarjeta de credito,Mañana
+V1327,Sucursal 1,2023-02-14,2,Tablet,Electronica,250.0,1,240.0,E4,Lucia Martinez,4,15,Zona 3,Guayaquil,Tarjeta de credito,Noche
+V1328,Sucursal 1,2023-01-17,5,Reloj,Calzado,80.0,6,720.0,E3,Jose Lopez,3,10,Zona 3,Loja,Efectivo,Noche
+V1329,Sucursal 1,2023-02-23,5,Bicicleta,Ropa,300.0,4,5000.0,E3,Lucia Martinez,2,20,Zona 3,Ambato,Tarjeta de credito,Mañana
+V1330,Sucursal 1,2023-01-20,7,Chaqueta de cuero,Accesorios,60.0,10,300.0,E1,Ana Garcia,3,20,Zona 3,Ambato,Transferencia,Noche
+V1331,Sucursal 1,2023-03-24,7,Bicicleta,Ropa,150.0,5,300.0,E1,Carlos Perez,4,20,Zona 3,Ambato,Tarjeta de credito,Noche
+V1332,Sucursal 1,2023-02-02,2,Zapatos deportivos,Electronica,25.0,5,1200.0,E3,Carlos Perez,2,20,Zona 2,Quito,PayPal,Tarde
+V1333,Sucursal 1,2023-01-17,3,Cargador inalambrico,Ropa,300.0,6,90.0,E4,Pedro Gomez,2,0,Zona 3,Loja,Tarjeta de debito,Noche
+V1334,Sucursal 1,2023-01-21,10,Reloj,Ropa,150.0,2,480.0,E3,Pedro Gomez,2,0,Zona 1,Loja,PayPal,Noche
+V1335,Sucursal 1,2023-03-05,8,Zapatos deportivos,Electronica,60.0,3,180.0,E2,Jose Lopez,4,5,Zona 2,Ambato,Efectivo,Mañana
+V1336,Sucursal 1,2023-01-15,5,Camiseta,Calzado,30.0,2,240.0,E5,Ana Garcia,3,20,Zona 2,Loja,Tarjeta de debito,Tarde
+V1337,Sucursal 1,2023-01-29,4,Smartphone,Accesorios,500.0,4,300.0,E2,Pedro Gomez,3,0,Zona 1,Guayaquil,Tarjeta de credito,Mañana
+V1338,Sucursal 1,2023-03-19,3,Reloj,Accesorios,60.0,10,50.0,E1,Lucia Martinez,4,0,Zona 3,Loja,Transferencia,Mañana
+V1339,Sucursal 1,2023-01-16,5,Reloj,Electronica,30.0,6,60.0,E1,Carlos Perez,2,5,Zona 3,Loja,Efectivo,Tarde
+V1340,Sucursal 1,2023-03-02,3,Smartphone,Ropa,25.0,4,300.0,E1,Jose Lopez,5,15,Zona 1,Loja,Tarjeta de credito,Noche
+V1341,Sucursal 1,2023-01-30,3,Camiseta,Ropa,500.0,3,125.0,E5,Carlos Perez,1,20,Zona 1,Loja,Tarjeta de credito,Tarde
+V1342,Sucursal 1,2023-01-08,9,Smartphone,Electronica,120.0,10,480.0,E4,Pedro Gomez,3,0,Zona 3,Cuenca,Efectivo,Mañana
+V1343,Sucursal 1,2023-02-20,10,Auriculares Bluetooth,Calzado,60.0,2,210.0,E5,Jose Lopez,3,15,Zona 1,Ambato,Tarjeta de debito,Tarde
+V1344,Sucursal 1,2023-02-28,6,Tablet,Accesorios,500.0,6,30.0,E1,Lucia Martinez,5,5,Zona 1,Quito,Tarjeta de credito,Noche
+V1345,Sucursal 1,2023-03-04,6,Tablet,Accesorios,150.0,4,900.0,E1,Jose Lopez,4,10,Zona 1,Loja,PayPal,Noche
+V1346,Sucursal 1,2023-02-12,7,Bicicleta,Electronica,40.0,6,500.0,E4,Lucia Martinez,1,5,Zona 3,Guayaquil,PayPal,Noche
+V1347,Sucursal 1,2023-03-22,2,Tablet,Ropa,150.0,1,90.0,E3,Carlos Perez,1,5,Zona 1,Quito,Efectivo,Tarde
+V1348,Sucursal 1,2023-03-14,3,Chaqueta de cuero,Ropa,500.0,7,320.0,E2,Jose Lopez,4,0,Zona 1,Quito,Transferencia,Noche
+V1349,Sucursal 1,2023-03-16,10,Auriculares Bluetooth,Ropa,25.0,9,480.0,E2,Pedro Gomez,5,15,Zona 3,Loja,Transferencia,Tarde
+V1350,Sucursal 1,2023-02-10,3,Cargador inalambrico,Accesorios,30.0,4,900.0,E1,Ana Garcia,1,15,Zona 2,Cuenca,Transferencia,Mañana
+V1351,Sucursal 1,2023-02-25,2,Auriculares Bluetooth,Accesorios,300.0,4,480.0,E2,Jose Lopez,5,0,Zona 1,Loja,PayPal,Mañana
+V1352,Sucursal 1,2023-03-25,4,Tablet,Calzado,25.0,9,1500.0,E5,Lucia Martinez,5,15,Zona 2,Guayaquil,Efectivo,Mañana
+V1353,Sucursal 1,2023-02-05,5,Tablet,Electronica,25.0,2,360.0,E5,Pedro Gomez,5,20,Zona 1,Ambato,PayPal,Mañana
+V1354,Sucursal 1,2023-03-22,9,Chaqueta de cuero,Ropa,25.0,6,600.0,E2,Carlos Perez,4,5,Zona 2,Guayaquil,Transferencia,Mañana
+V1355,Sucursal 1,2023-02-15,7,Pantalones,Electronica,300.0,5,2500.0,E4,Carlos Perez,2,20,Zona 3,Guayaquil,Tarjeta de debito,Mañana
+V1356,Sucursal 1,2023-01-16,5,Auriculares Bluetooth,Calzado,80.0,8,200.0,E5,Ana Garcia,3,5,Zona 2,Guayaquil,Tarjeta de debito,Noche
+V1357,Sucursal 1,2023-03-03,1,Smartphone,Calzado,60.0,2,720.0,E2,Lucia Martinez,2,0,Zona 1,Guayaquil,PayPal,Noche
+V1358,Sucursal 1,2023-01-17,1,Cargador inalambrico,Electronica,40.0,6,2000.0,E2,Carlos Perez,4,0,Zona 2,Cuenca,Tarjeta de debito,Noche
+V1359,Sucursal 1,2023-01-23,1,Camiseta,Accesorios,300.0,6,180.0,E4,Carlos Perez,3,5,Zona 2,Quito,PayPal,Mañana
+V1360,Sucursal 1,2023-02-03,1,Smartphone,Electronica,120.0,4,420.0,E1,Jose Lopez,1,10,Zona 1,Ambato,Efectivo,Mañana
+V1361,Sucursal 1,2023-02-25,8,Auriculares Bluetooth,Ropa,300.0,1,2500.0,E1,Jose Lopez,5,15,Zona 3,Ambato,Tarjeta de debito,Tarde
+V1362,Sucursal 1,2023-03-14,6,Pantalones,Accesorios,80.0,9,160.0,E4,Jose Lopez,1,5,Zona 2,Quito,Efectivo,Noche
+V1363,Sucursal 1,2023-03-06,8,Bicicleta,Accesorios,500.0,8,800.0,E1,Lucia Martinez,5,15,Zona 3,Loja,Efectivo,Mañana
+V1364,Sucursal 1,2023-03-21,9,Camiseta,Electronica,500.0,6,180.0,E3,Pedro Gomez,1,5,Zona 3,Cuenca,PayPal,Tarde
+V1365,Sucursal 1,2023-03-10,9,Tablet,Ropa,500.0,6,80.0,E2,Pedro Gomez,4,0,Zona 3,Quito,Efectivo,Mañana
+V1366,Sucursal 1,2023-01-10,10,Bicicleta,Accesorios,80.0,7,60.0,E4,Ana Garcia,4,5,Zona 2,Ambato,PayPal,Tarde
+V1367,Sucursal 1,2023-01-16,5,Bicicleta,Calzado,500.0,3,200.0,E1,Pedro Gomez,5,15,Zona 2,Ambato,PayPal,Tarde
+V1368,Sucursal 1,2023-01-10,4,Reloj,Electronica,250.0,7,200.0,E5,Jose Lopez,3,15,Zona 3,Quito,Tarjeta de credito,Mañana
+V1369,Sucursal 1,2023-02-15,3,Bicicleta,Electronica,40.0,8,160.0,E4,Carlos Perez,1,20,Zona 2,Loja,Tarjeta de debito,Mañana
+V1370,Sucursal 1,2023-01-28,7,Cargador inalambrico,Electronica,30.0,4,300.0,E5,Pedro Gomez,4,15,Zona 1,Ambato,Efectivo,Tarde
+V1371,Sucursal 1,2023-02-17,1,Tablet,Electronica,300.0,1,1750.0,E5,Carlos Perez,5,15,Zona 2,Guayaquil,Efectivo,Noche
+V1372,Sucursal 1,2023-03-04,6,Camiseta,Accesorios,300.0,7,900.0,E1,Jose Lopez,2,10,Zona 1,Loja,PayPal,Mañana
+V1373,Sucursal 1,2023-02-02,9,Pantalones,Electronica,300.0,7,3000.0,E1,Ana Garcia,3,0,Zona 1,Quito,Transferencia,Tarde
+V1374,Sucursal 1,2023-01-29,7,Pantalones,Accesorios,150.0,5,400.0,E2,Pedro Gomez,2,5,Zona 1,Ambato,Transferencia,Tarde
+V1375,Sucursal 1,2023-01-15,4,Cargador inalambrico,Calzado,25.0,8,200.0,E3,Ana Garcia,2,15,Zona 2,Cuenca,Transferencia,Mañana
+V1376,Sucursal 1,2023-03-18,7,Camiseta,Calzado,60.0,6,1200.0,E5,Jose Lopez,5,0,Zona 1,Quito,Tarjeta de credito,Noche
+V1377,Sucursal 1,2023-03-11,10,Cargador inalambrico,Ropa,150.0,3,2100.0,E5,Lucia Martinez,3,20,Zona 2,Guayaquil,PayPal,Mañana
+V1378,Sucursal 1,2023-04-01,4,Zapatos deportivos,Electronica,40.0,9,240.0,E2,Jose Lopez,3,20,Zona 3,Guayaquil,Tarjeta de credito,Mañana
+V1379,Sucursal 1,2023-02-26,7,Smartphone,Calzado,60.0,7,480.0,E1,Pedro Gomez,5,0,Zona 3,Quito,PayPal,Tarde
+V1380,Sucursal 1,2023-01-28,7,Auriculares Bluetooth,Ropa,250.0,8,400.0,E2,Jose Lopez,2,20,Zona 2,Ambato,Tarjeta de credito,Tarde
+V1381,Sucursal 1,2023-02-08,2,Zapatos deportivos,Electronica,25.0,8,600.0,E1,Jose Lopez,5,20,Zona 2,Loja,Transferencia,Noche
+V1382,Sucursal 1,2023-02-03,6,Camiseta,Electronica,250.0,2,30.0,E1,Pedro Gomez,5,5,Zona 1,Quito,Tarjeta de credito,Mañana
+V1383,Sucursal 1,2023-01-19,10,Auriculares Bluetooth,Electronica,60.0,9,200.0,E4,Ana Garcia,1,20,Zona 3,Guayaquil,Tarjeta de debito,Tarde
+V1384,Sucursal 1,2023-03-11,9,Smartphone,Accesorios,120.0,5,250.0,E5,Ana Garcia,2,20,Zona 1,Loja,Efectivo,Mañana
+V1385,Sucursal 1,2023-01-17,5,Tablet,Electronica,150.0,1,1200.0,E4,Ana Garcia,2,15,Zona 2,Quito,Tarjeta de debito,Noche
+V1386,Sucursal 1,2023-01-23,3,Chaqueta de cuero,Electronica,30.0,10,720.0,E3,Pedro Gomez,2,5,Zona 2,Ambato,PayPal,Noche
+V1387,Sucursal 1,2023-01-10,10,Pantalones,Accesorios,250.0,4,480.0,E2,Carlos Perez,3,10,Zona 1,Ambato,Tarjeta de debito,Noche
+V1388,Sucursal 1,2023-01-14,5,Cargador inalambrico,Electronica,60.0,7,150.0,E4,Pedro Gomez,2,10,Zona 3,Cuenca,Efectivo,Tarde
+V1389,Sucursal 1,2023-03-06,8,Tablet,Electronica,30.0,1,40.0,E3,Ana Garcia,5,15,Zona 2,Ambato,Tarjeta de credito,Tarde
+V1390,Sucursal 1,2023-02-11,8,Cargador inalambrico,Calzado,80.0,4,240.0,E2,Ana Garcia,2,15,Zona 2,Ambato,Tarjeta de debito,Mañana
+V1391,Sucursal 1,2023-01-23,10,Reloj,Electronica,120.0,1,600.0,E1,Ana Garcia,3,10,Zona 2,Quito,Tarjeta de credito,Noche
+V1392,Sucursal 1,2023-03-12,1,Camiseta,Electronica,40.0,2,120.0,E1,Lucia Martinez,2,5,Zona 2,Guayaquil,Efectivo,Noche
+V1393,Sucursal 1,2023-01-17,4,Chaqueta de cuero,Accesorios,30.0,2,1800.0,E1,Ana Garcia,1,10,Zona 3,Guayaquil,Tarjeta de credito,Noche
+V1394,Sucursal 1,2023-01-10,6,Camiseta,Electronica,250.0,7,3000.0,E2,Pedro Gomez,5,15,Zona 1,Quito,Efectivo,Tarde
+V1395,Sucursal 1,2023-02-11,9,Cargador inalambrico,Electronica,120.0,5,150.0,E3,Pedro Gomez,4,15,Zona 3,Ambato,Tarjeta de credito,Noche
+V1396,Sucursal 1,2023-03-23,10,Pantalones,Ropa,60.0,10,720.0,E4,Pedro Gomez,5,15,Zona 2,Quito,Tarjeta de debito,Noche
+V1397,Sucursal 1,2023-02-18,8,Cargador inalambrico,Calzado,,10,,E4,Lucia Martinez,1,15,Zona 1,Guayaquil,PayPal,Mañana
+V1398,Sucursal 1,2023-03-14,9,Smartphone,Ropa,,4,,E4,Carlos Perez,2,10,Zona 3,Loja,PayPal,Mañana
+V1399,Sucursal 1,2023-03-23,8,Tablet,Accesorios,30.0,7,1250.0,E4,Carlos Perez,3,0,Zona 3,Loja,Transferencia,Noche
+V1400,Sucursal 1,2023-03-13,9,Tablet,Electronica,120.0,2,200.0,E1,Lucia Martinez,4,0,Zona 2,Ambato,Transferencia,Noche
+V1401,Sucursal 1,2023-01-19,4,Chaqueta de cuero,Ropa,80.0,9,250.0,E5,Jose Lopez,4,10,Zona 3,Quito,Efectivo,Mañana
+V1402,Sucursal 1,2023-02-22,4,Camiseta,Accesorios,30.0,10,1500.0,E5,Ana Garcia,1,15,Zona 1,Guayaquil,Efectivo,Tarde
+V1403,Sucursal 1,2023-03-07,9,Pantalones,Accesorios,60.0,5,4000.0,E5,Carlos Perez,5,5,Zona 3,Quito,PayPal,Noche
+V1404,Sucursal 1,2023-03-11,6,Cargador inalambrico,Electronica,30.0,8,180.0,E1,Pedro Gomez,4,15,Zona 1,Quito,PayPal,Tarde
+V1405,Sucursal 1,2023-03-27,7,Smartphone,Electronica,25.0,4,560.0,E1,Pedro Gomez,5,5,Zona 1,Cuenca,Tarjeta de debito,Tarde
+V1406,Sucursal 1,2023-03-26,1,Tablet,Calzado,30.0,7,125.0,E5,Jose Lopez,4,5,Zona 2,Guayaquil,Transferencia,Tarde
+V1407,Sucursal 1,2023-02-25,8,Pantalones,Ropa,60.0,1,25.0,E5,Carlos Perez,4,15,Zona 3,Ambato,Efectivo,Noche
+V1408,Sucursal 1,2023-01-31,9,Smartphone,Accesorios,60.0,4,1250.0,E5,Carlos Perez,2,10,Zona 1,Loja,Tarjeta de debito,Tarde
+V1409,Sucursal 1,2023-02-21,1,Cargador inalambrico,Accesorios,25.0,3,1500.0,E3,Jose Lopez,3,5,Zona 3,Guayaquil,PayPal,Tarde
+V1410,Sucursal 1,2023-03-30,10,Smartphone,Electronica,80.0,9,900.0,E3,Pedro Gomez,5,0,Zona 2,Quito,Tarjeta de credito,Tarde
+V1411,Sucursal 1,2023-02-18,3,Reloj,Electronica,30.0,9,840.0,E3,Jose Lopez,4,10,Zona 2,Loja,PayPal,Mañana
+V1412,Sucursal 1,2023-01-29,5,Smartphone,Electronica,60.0,7,600.0,E3,Lucia Martinez,2,20,Zona 2,Quito,Transferencia,Mañana
+V1413,Sucursal 1,2023-03-01,10,Smartphone,Calzado,250.0,8,480.0,E2,Lucia Martinez,1,10,Zona 2,Cuenca,Efectivo,Noche
+V1414,Sucursal 1,2023-01-23,1,Zapatos deportivos,Ropa,60.0,7,180.0,E2,Jose Lopez,5,15,Zona 3,Cuenca,PayPal,Tarde
+V1415,Sucursal 1,2023-01-13,7,Auriculares Bluetooth,Calzado,40.0,9,90.0,E4,Jose Lopez,2,10,Zona 1,Ambato,Efectivo,Mañana
+V1416,Sucursal 1,2023-02-07,9,Cargador inalambrico,Accesorios,60.0,2,60.0,E4,Jose Lopez,3,10,Zona 3,Ambato,Tarjeta de credito,Mañana
+V1417,Sucursal 1,2023-01-12,1,Pantalones,Ropa,40.0,5,2500.0,E5,Jose Lopez,1,5,Zona 1,Cuenca,Efectivo,Tarde
+V1418,Sucursal 1,2023-01-14,1,Camiseta,Accesorios,500.0,3,150.0,E5,Jose Lopez,2,15,Zona 3,Loja,Tarjeta de debito,Tarde
+V1419,Sucursal 1,2023-01-12,2,Camiseta,Accesorios,80.0,10,3500.0,E2,Pedro Gomez,5,10,Zona 2,Guayaquil,Tarjeta de credito,Tarde
+V1420,Sucursal 1,2023-01-01,8,Auriculares Bluetooth,Electronica,250.0,7,4500.0,E1,Carlos Perez,1,0,Zona 1,Quito,PayPal,Mañana
+V1421,Sucursal 1,2023-03-19,1,Chaqueta de cuero,Accesorios,25.0,7,1200.0,E1,Ana Garcia,4,10,Zona 2,Guayaquil,Tarjeta de credito,Mañana
+V1422,Sucursal 1,2023-01-31,4,Auriculares Bluetooth,Accesorios,150.0,2,60.0,E4,Pedro Gomez,1,15,Zona 1,Guayaquil,Transferencia,Mañana
+V1423,Sucursal 1,2023-03-31,6,Smartphone,Electronica,60.0,10,3000.0,E3,Ana Garcia,2,20,Zona 2,Quito,Tarjeta de credito,Tarde
+V1424,Sucursal 1,2023-03-12,4,Cargador inalambrico,Electronica,30.0,1,480.0,E1,Ana Garcia,5,20,Zona 1,Quito,Tarjeta de debito,Mañana
+V1425,Sucursal 1,2023-03-15,8,Reloj,Calzado,40.0,1,4500.0,E4,Carlos Perez,3,5,Zona 2,Guayaquil,Tarjeta de credito,Mañana
+V1426,Sucursal 1,2023-02-12,8,Chaqueta de cuero,Ropa,150.0,1,5000.0,E3,Pedro Gomez,2,20,Zona 1,Quito,Efectivo,Mañana
+V1427,Sucursal 1,2023-03-15,1,Camiseta,Electronica,40.0,8,60.0,E5,Ana Garcia,4,0,Zona 3,Quito,PayPal,Mañana
+V1428,Sucursal 1,2023-03-10,2,Reloj,Ropa,150.0,2,1000.0,E3,Lucia Martinez,1,10,Zona 3,Loja,Tarjeta de debito,Tarde
+V1429,Sucursal 1,2023-02-16,9,Tablet,Accesorios,500.0,7,125.0,E1,Lucia Martinez,1,20,Zona 3,Loja,Tarjeta de credito,Tarde
+V1430,Sucursal 1,2023-01-13,1,Zapatos deportivos,Calzado,500.0,1,250.0,E4,Jose Lopez,4,15,Zona 1,Cuenca,Transferencia,Tarde
+V1431,Sucursal 1,2023-03-24,3,Zapatos deportivos,Accesorios,80.0,4,500.0,E4,Lucia Martinez,3,5,Zona 1,Quito,Tarjeta de credito,Tarde
+V1432,Sucursal 1,2023-02-13,1,Reloj,Accesorios,250.0,1,25.0,E2,Jose Lopez,2,15,Zona 2,Quito,Tarjeta de credito,Tarde
+V1433,Sucursal 1,2023-03-16,5,Cargador inalambrico,Accesorios,25.0,2,1000.0,E5,Pedro Gomez,4,15,Zona 2,Cuenca,PayPal,Mañana
+V1434,Sucursal 1,2023-03-06,1,Pantalones,Ropa,300.0,2,40.0,E5,Ana Garcia,5,10,Zona 3,Cuenca,Tarjeta de debito,Mañana
+V1435,Sucursal 1,2023-03-10,2,Zapatos deportivos,Ropa,60.0,1,200.0,E5,Carlos Perez,3,20,Zona 3,Loja,Transferencia,Noche
+V1436,Sucursal 1,2023-03-31,7,Chaqueta de cuero,Ropa,25.0,6,360.0,E3,Pedro Gomez,5,0,Zona 3,Loja,PayPal,Noche
+V1437,Sucursal 1,2023-03-11,5,Cargador inalambrico,Calzado,250.0,4,240.0,E2,Pedro Gomez,3,5,Zona 1,Quito,PayPal,Noche
+V1438,Sucursal 1,2023-01-26,7,Reloj,Electronica,40.0,7,270.0,E3,Jose Lopez,3,5,Zona 1,Loja,Tarjeta de credito,Tarde
+V1439,Sucursal 1,2023-03-29,10,Bicicleta,Calzado,120.0,4,200.0,E4,Ana Garcia,4,10,Zona 2,Loja,Transferencia,Noche
+V1440,Sucursal 1,2023-01-31,5,Auriculares Bluetooth,Ropa,250.0,8,1500.0,E2,Lucia Martinez,5,5,Zona 3,Ambato,Tarjeta de credito,Mañana
+V1441,Sucursal 1,2023-03-10,8,Camiseta,Ropa,30.0,10,120.0,E3,Jose Lopez,1,15,Zona 3,Quito,Tarjeta de debito,Tarde
+V1442,Sucursal 1,2023-01-15,1,Zapatos deportivos,Electronica,80.0,8,720.0,E3,Lucia Martinez,2,0,Zona 1,Guayaquil,PayPal,Mañana
+V1443,Sucursal 1,2023-02-06,9,Smartphone,Electronica,25.0,4,280.0,E4,Pedro Gomez,5,10,Zona 2,Loja,PayPal,Tarde
+V1444,Sucursal 1,2023-03-09,2,Smartphone,Electronica,120.0,10,640.0,E3,Ana Garcia,2,0,Zona 3,Loja,Efectivo,Noche
+V1445,Sucursal 1,2023-02-05,2,Zapatos deportivos,Ropa,500.0,7,400.0,E3,Pedro Gomez,4,0,Zona 1,Ambato,Tarjeta de credito,Tarde
+V1446,Sucursal 1,2023-02-09,10,Chaqueta de cuero,Accesorios,40.0,10,250.0,E2,Jose Lopez,4,0,Zona 1,Cuenca,Tarjeta de debito,Mañana
+V1447,Sucursal 1,2023-02-14,7,Auriculares Bluetooth,Electronica,300.0,8,480.0,E2,Carlos Perez,3,10,Zona 1,Ambato,Tarjeta de debito,Mañana
+V1448,Sucursal 1,2023-01-11,4,Cargador inalambrico,Electronica,150.0,2,1000.0,E2,Ana Garcia,3,0,Zona 3,Guayaquil,PayPal,Noche
+V1449,Sucursal 1,2023-01-22,4,Camiseta,Accesorios,60.0,6,5000.0,E3,Carlos Perez,4,10,Zona 1,Loja,PayPal,Mañana
+V1450,Sucursal 1,2023-03-27,10,Bicicleta,Electronica,250.0,9,4500.0,E3,Ana Garcia,3,15,Zona 1,Loja,PayPal,Noche
+V1451,Sucursal 1,2023-03-11,10,Bicicleta,Ropa,25.0,4,3500.0,E5,Ana Garcia,1,5,Zona 3,Cuenca,Tarjeta de credito,Mañana
+V1452,Sucursal 1,2023-03-27,4,Tablet,Electronica,,1,,E5,Pedro Gomez,4,20,Zona 3,Loja,Efectivo,Noche
+V1453,Sucursal 1,2023-03-10,2,Camiseta,Accesorios,500.0,2,150.0,E1,Pedro Gomez,2,15,Zona 2,Guayaquil,Tarjeta de debito,Tarde
+V1454,Sucursal 1,2023-01-17,9,Smartphone,Electronica,80.0,4,480.0,E3,Pedro Gomez,1,10,Zona 2,Ambato,Tarjeta de credito,Tarde
+V1455,Sucursal 1,2023-03-18,9,Smartphone,Accesorios,80.0,7,120.0,E3,Ana Garcia,4,20,Zona 1,Cuenca,Tarjeta de debito,Tarde
+V1456,Sucursal 1,2023-03-01,3,Auriculares Bluetooth,Electronica,,6,,E3,Lucia Martinez,4,15,Zona 1,Loja,PayPal,Noche
+V1457,Sucursal 1,2023-02-19,10,Bicicleta,Electronica,300.0,3,150.0,E1,Ana Garcia,3,10,Zona 1,Loja,Transferencia,Tarde
+V1458,Sucursal 1,2023-01-24,9,Bicicleta,Accesorios,80.0,4,280.0,E2,Lucia Martinez,1,0,Zona 1,Loja,PayPal,Noche
+V1459,Sucursal 1,2023-03-03,9,Zapatos deportivos,Electronica,40.0,4,3000.0,E4,Jose Lopez,2,0,Zona 2,Guayaquil,PayPal,Noche
+V1460,Sucursal 1,2023-03-17,9,Pantalones,Electronica,300.0,1,900.0,E3,Pedro Gomez,5,0,Zona 3,Loja,Efectivo,Noche
+V1461,Sucursal 1,2023-03-04,3,Zapatos deportivos,Accesorios,300.0,4,240.0,E5,Ana Garcia,1,0,Zona 1,Guayaquil,Tarjeta de credito,Tarde
+V1462,Sucursal 1,2023-03-22,10,Auriculares Bluetooth,Accesorios,300.0,7,250.0,E3,Lucia Martinez,5,0,Zona 2,Ambato,PayPal,Noche
+V1463,Sucursal 1,2023-03-07,1,Camiseta,Electronica,30.0,10,240.0,E1,Jose Lopez,2,0,Zona 2,Quito,Tarjeta de credito,Mañana
+V1464,Sucursal 1,2023-01-19,2,Smartphone,Calzado,,10,,E4,Pedro Gomez,5,15,Zona 1,Quito,Tarjeta de debito,Mañana
+V1465,Sucursal 1,2023-01-12,4,Reloj,Accesorios,500.0,3,1080.0,E2,Lucia Martinez,3,10,Zona 1,Cuenca,Tarjeta de credito,Mañana
+V1466,Sucursal 1,2023-03-09,10,Chaqueta de cuero,Accesorios,25.0,5,1750.0,E1,Ana Garcia,4,5,Zona 1,Quito,PayPal,Mañana
+V1467,Sucursal 1,2023-01-15,3,Pantalones,Electronica,25.0,7,3000.0,E2,Jose Lopez,3,20,Zona 1,Loja,Efectivo,Tarde
+V1468,Sucursal 1,2023-02-13,2,Cargador inalambrico,Calzado,500.0,3,1500.0,E5,Ana Garcia,4,5,Zona 1,Guayaquil,Efectivo,Noche
+V1469,Sucursal 1,2023-01-05,10,Chaqueta de cuero,Ropa,120.0,6,300.0,E1,Pedro Gomez,2,10,Zona 2,Ambato,Transferencia,Noche
+V1470,Sucursal 1,2023-01-17,2,Pantalones,Electronica,60.0,6,250.0,E1,Lucia Martinez,2,0,Zona 3,Ambato,PayPal,Mañana
+V1471,Sucursal 1,2023-02-15,6,Chaqueta de cuero,Accesorios,25.0,8,480.0,E4,Pedro Gomez,2,5,Zona 3,Ambato,PayPal,Noche
+V1472,Sucursal 1,2023-01-21,4,Zapatos deportivos,Ropa,60.0,3,4500.0,E5,Lucia Martinez,3,20,Zona 3,Quito,PayPal,Tarde
+V1473,Sucursal 1,2023-01-26,8,Smartphone,Electronica,30.0,5,3000.0,E1,Ana Garcia,3,5,Zona 1,Cuenca,Efectivo,Noche
+V1474,Sucursal 1,2023-01-14,1,Pantalones,Ropa,,9,,E2,Pedro Gomez,2,5,Zona 2,Loja,Tarjeta de credito,Noche
+V1475,Sucursal 1,2023-02-04,1,Tablet,Electronica,80.0,8,120.0,E1,Jose Lopez,5,0,Zona 2,Loja,Transferencia,Mañana
+V1476,Sucursal 1,2023-03-23,9,Pantalones,Accesorios,40.0,10,360.0,E5,Carlos Perez,3,15,Zona 1,Guayaquil,Tarjeta de credito,Tarde
+V1477,Sucursal 1,2023-02-02,9,Reloj,Calzado,40.0,9,200.0,E1,Pedro Gomez,1,5,Zona 3,Guayaquil,Transferencia,Mañana
+V1478,Sucursal 1,2023-03-15,6,Cargador inalambrico,Electronica,40.0,1,150.0,E3,Lucia Martinez,3,15,Zona 2,Loja,PayPal,Mañana
+V1479,Sucursal 1,2023-03-07,10,Smartphone,Electronica,300.0,2,40.0,E1,Jose Lopez,2,15,Zona 1,Guayaquil,Tarjeta de debito,Mañana
+V1480,Sucursal 1,2023-02-21,5,Auriculares Bluetooth,Accesorios,80.0,4,240.0,E5,Pedro Gomez,2,15,Zona 1,Cuenca,Efectivo,Tarde
+V1481,Sucursal 1,2023-01-16,1,Pantalones,Ropa,30.0,5,4500.0,E4,Ana Garcia,4,5,Zona 3,Ambato,PayPal,Mañana
+V1482,Sucursal 1,2023-01-21,10,Smartphone,Electronica,40.0,1,1000.0,E3,Pedro Gomez,3,0,Zona 3,Loja,PayPal,Tarde
+V1483,Sucursal 1,2023-03-01,8,Bicicleta,Electronica,250.0,9,90.0,E5,Ana Garcia,5,0,Zona 3,Quito,Transferencia,Mañana
+V1484,Sucursal 1,2023-01-11,1,Tablet,Electronica,500.0,1,150.0,E3,Ana Garcia,1,20,Zona 1,Loja,PayPal,Mañana
+V1485,Sucursal 1,2023-02-17,8,Camiseta,Electronica,30.0,10,640.0,E1,Jose Lopez,1,5,Zona 1,Loja,Efectivo,Tarde
+V1486,Sucursal 1,2023-01-03,9,Chaqueta de cuero,Ropa,25.0,8,300.0,E3,Ana Garcia,1,5,Zona 3,Ambato,Tarjeta de credito,Tarde
+V1487,Sucursal 1,2023-02-12,8,Reloj,Ropa,300.0,5,120.0,E4,Lucia Martinez,4,10,Zona 2,Ambato,Tarjeta de debito,Tarde
+V1488,Sucursal 1,2023-03-16,4,Camiseta,Ropa,25.0,2,1500.0,E2,Ana Garcia,4,0,Zona 3,Ambato,Efectivo,Tarde
+V1489,Sucursal 1,2023-02-13,7,Tablet,Electronica,80.0,2,80.0,E1,Jose Lopez,2,10,Zona 1,Cuenca,Tarjeta de credito,Noche
+V1490,Sucursal 1,2023-02-19,7,Bicicleta,Electronica,120.0,10,60.0,E5,Ana Garcia,2,10,Zona 2,Cuenca,Efectivo,Mañana
+V1491,Sucursal 1,2023-03-22,8,Bicicleta,Accesorios,60.0,6,80.0,E2,Carlos Perez,5,20,Zona 2,Guayaquil,PayPal,Noche
+V1492,Sucursal 1,2023-02-22,4,Reloj,Ropa,150.0,7,750.0,E4,Jose Lopez,2,5,Zona 1,Quito,Transferencia,Mañana
+V1493,Sucursal 1,2023-01-17,9,Cargador inalambrico,Accesorios,300.0,3,1500.0,E4,Jose Lopez,3,20,Zona 2,Quito,Tarjeta de debito,Tarde
+V1494,Sucursal 1,2023-02-25,2,Tablet,Ropa,500.0,6,300.0,E5,Lucia Martinez,1,5,Zona 1,Cuenca,Tarjeta de debito,Tarde
+V1495,Sucursal 1,2023-02-23,5,Chaqueta de cuero,Ropa,40.0,5,1000.0,E2,Pedro Gomez,1,5,Zona 1,Loja,Tarjeta de debito,Noche
+V1496,Sucursal 1,2023-03-17,5,Tablet,Electronica,30.0,8,480.0,E4,Pedro Gomez,3,10,Zona 2,Loja,Transferencia,Tarde
+V1497,Sucursal 1,2023-03-05,1,Smartphone,Electronica,500.0,3,500.0,E2,Carlos Perez,5,15,Zona 3,Cuenca,PayPal,Mañana
+V1498,Sucursal 1,2023-01-01,1,Tablet,Ropa,30.0,1,40.0,E5,Carlos Perez,3,15,Zona 1,Loja,Tarjeta de credito,Mañana
+V1499,Sucursal 1,2023-01-07,5,Cargador inalambrico,Electronica,80.0,9,480.0,E3,Pedro Gomez,4,10,Zona 1,Cuenca,Tarjeta de debito,Tarde
